@@ -1,0 +1,1 @@
+This is a flask app for generating OSC commands to send to the Data Feel dots
