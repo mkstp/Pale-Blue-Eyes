@@ -7,7 +7,7 @@ Neutral statements -> purple
 ### HOW TO
 - run `python src/app.py` in terminal 
 - plug in data feel dots
-- insert `Program.cs` into DataFeelSDK sample project folder
+- insert `Program.cs` into [DataFeelSDK sample project](https://github.com/DataFeel/devkit-samples) folder
 - in the webpage, enter any text and press submit
 - the colours should now be changing  
 
